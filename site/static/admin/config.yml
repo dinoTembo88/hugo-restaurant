@@ -1,6 +1,6 @@
 backend:
   name: github
-
+  repo: dinoTembo88/hugo-restaurant
 media_folder: "src/img/gallery" # Folder where user uploaded files should go
 public_folder: "img/gallery"
 
